@@ -38,7 +38,7 @@ base_directory = '/home/daniel/Git/daniel-goes-prompting-v3/content'
 
 ## The Script
 
-```
+```python
 import os
 import yaml
 
